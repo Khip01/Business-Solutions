@@ -19,7 +19,7 @@ Required Software:
 
 Instructions:
 - Clone this repo or download this repo.
-- Run laravel folder with composer.
+- Run laravel folder with `php artisan serve`.
 
 ---
 
